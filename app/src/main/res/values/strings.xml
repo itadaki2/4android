@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practical_4</string>
+    <string name="pushBtn">Мой выбор</string>
+    <string name="textPiva">Выберите вид пива,нажмите на кнопку.</string>
+</resources>

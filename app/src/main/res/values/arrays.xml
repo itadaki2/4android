@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="beer_types">
+        <item>Pilsners</item>
+        <item> stout</item>
+        <item>IPA</item>
+        <item>Porter</item>
+        <item>ale</item>
+    </string-array>
+</resources>
